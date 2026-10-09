@@ -7,3 +7,7 @@ venv/
 
 project/db.sqlite3
 .env
+
+project/app/__pycache__/
+project/app/migrations/__pycache__/
+project/project/__pycache__/
